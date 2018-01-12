@@ -1,12 +1,24 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeadEarth.Plugins", "DeadEarth.Plugins.csproj", "{A2E0E9ED-C72D-87E5-9977-540F8FA40E4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeadEarth.Editor.Plugins", "DeadEarth.Editor.Plugins.csproj", "{283D62F3-4569-354F-6FA1-07B9698E613B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2E0E9ED-C72D-87E5-9977-540F8FA40E4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2E0E9ED-C72D-87E5-9977-540F8FA40E4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2E0E9ED-C72D-87E5-9977-540F8FA40E4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2E0E9ED-C72D-87E5-9977-540F8FA40E4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{283D62F3-4569-354F-6FA1-07B9698E613B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{283D62F3-4569-354F-6FA1-07B9698E613B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{283D62F3-4569-354F-6FA1-07B9698E613B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{283D62F3-4569-354F-6FA1-07B9698E613B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
